@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>BWC Network </ShortName>
+	<Description>Search BWC Network  - </Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://bwc-network.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://bwc-network.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://bwc-network.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://bwc-network.com/osd.xml" />
+	<LongName>BWC Network </LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://bwc-network.com/wp-content/uploads/2024/03/wp-1710264862071.jpg?w=16</Image>
+	<Image height="64" width="64" type="image/jpeg">https://bwc-network.com/wp-content/uploads/2024/03/wp-1710264862071.jpg?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>blog</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>fr-FR</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://bwc-network.com</moz:SearchForm>
+</OpenSearchDescription>

@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Mar 2024 08:36:25 at https://bwc-network.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://bwc-network.com/ -O1 "C:\Users\PC\Documents\html\bwc2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:36:39	Error: 	"Method Not Allowed" (405) at link https://bwc-network.com/xmlrpc.php (from https://bwc-network.com/)
+08:36:54	Error: 	"Error when decompressing" (-1) at link https://bwc-network.com/french-tek-%f0%9f%87%a8%f0%9f%87%b5/ (from https://bwc-network.com/pages-diverses/)
+08:36:54	Error: 	"Error when decompressing" (-1) at link https://bwc-network.com/dub-%f0%9f%94%8a/ (from https://bwc-network.com/pages-diverses/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 82 links scanned, 77 files written (23472902 bytes overall) [21543254 bytes received at 430865 bytes/sec], 2704265 bytes transferred using HTTP compression in 50 files, ratio 25%, 3.6 requests per connection
+(3 errors, 0 warnings, 0 messages)
